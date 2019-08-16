@@ -1,5 +1,5 @@
 # Neural Networks
-<img src="https://user-images.githubusercontent.com/46146748/63178520-34420200-c018-11e9-8f9f-183da398376f.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/46146748/63178520-34420200-c018-11e9-8f9f-183da398376f.jpg" width="800">
 
 ## Goal of the analysis
 
@@ -29,9 +29,8 @@ install.packages("dplyr")
 
 ## Visualizations
 ### Neural Network with Three Hidden Layers
-<img src="https://user-images.githubusercontent.com/46146748/63179238-af57e800-c019-11e9-93d1-e9d6f5c64efa.PNG"" width="600">
-
-The command "neuralnet" sets up the model. It is composed of four basic arguments:
+<img width="700" alt="Capture" src="https://user-images.githubusercontent.com/46146748/63179238-af57e800-c019-11e9-93d1-e9d6f5c64efa.PNG">
+The command **"neuralnet"** sets up the model. It is composed of four basic arguments:
 
 - A formula that describes the inputs and outputs of the neural net (attention is our output)
 - The data frame that the model will use
@@ -49,7 +48,7 @@ The application of neural networks to learning problems has been ongoing for 20 
 
 ##  Related Readings
 
-[Nielsen, M. (2015). Neural Networks & Deep Learning. Determination Press:San Francisco, CA]
+ Nielsen, M. (2015). Neural Networks & Deep Learning. Determination Press:San Francisco, CA
   [Chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html)  
   [Charpter 2](http://neuralnetworksanddeeplearning.com/chap2.html)  
 
@@ -60,7 +59,7 @@ The application of neural networks to learning problems has been ongoing for 20 
 [Roberts, E. (2000). History in Neural Networks. Stanford University: Palo Alto, CA](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/History/history1.html)
 
 
-For more detail:  
+ For more detail:  
 [Stergiou, C. & Siganos, D. (2000). Neural Networks.](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
 
 [Hartnett, K. (2019). Foundations Built for a General Theory of Neural Networks](https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/)
