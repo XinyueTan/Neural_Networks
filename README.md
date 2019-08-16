@@ -30,7 +30,7 @@ install.packages("dplyr")
 ## Visualizations
 ### Neural Network with Three Hidden Layers
 <img width="700" alt="Capture" src="https://user-images.githubusercontent.com/46146748/63179238-af57e800-c019-11e9-93d1-e9d6f5c64efa.PNG">
-The command **"neuralnet"** sets up the model. It is composed of four basic arguments:
+The command **neuralnet** sets up the model. It is composed of four basic arguments:
 
 - A formula that describes the inputs and outputs of the neural net (attention is our output)
 - The data frame that the model will use
@@ -49,6 +49,7 @@ The application of neural networks to learning problems has been ongoing for 20 
 ##  Related Readings
 
  Nielsen, M. (2015). Neural Networks & Deep Learning. Determination Press:San Francisco, CA
+ 
   [Chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html)  
   [Charpter 2](http://neuralnetworksanddeeplearning.com/chap2.html)  
 
