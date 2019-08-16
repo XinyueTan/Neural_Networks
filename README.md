@@ -1,5 +1,5 @@
 # Neural Networks
-![Artificial-Intelligence-Neural-Network-Nodes-850x557](https://user-images.githubusercontent.com/46146748/63178520-34420200-c018-11e9-8f9f-183da398376f.jpg)
+<img src="https://user-images.githubusercontent.com/46146748/63178520-34420200-c018-11e9-8f9f-183da398376f.jpg" width="600">
 
 ## Goal of the analysis
 
@@ -29,7 +29,7 @@ install.packages("dplyr")
 
 ## Visualizations
 ### Neural Network with Three Hidden Layers
-
+<img src="https://user-images.githubusercontent.com/46146748/63179238-af57e800-c019-11e9-93d1-e9d6f5c64efa.PNG"" width="600">
 
 The command "neuralnet" sets up the model. It is composed of four basic arguments:
 
@@ -40,7 +40,7 @@ The command "neuralnet" sets up the model. It is composed of four basic argument
 
 
 ## Background
-Neural networks are not a new method, the first artificial neural network was devised in 1943, but advances in computational power and speed have made them a much more viable strategy for solving complex problems over the last 5-10 years. Originally devised by mathmaticians and neuroscientists to illustrate the fundamental principles of how brains might work they lost favor in the second half of the 20th century only to surge in popularity in the 20-teens as software engineers used them to resolve mathmatically intractable problems. 
+**Neural networks** are not a new method, the first artificial neural network was devised in 1943, but advances in computational power and speed have made them a much more viable strategy for solving complex problems over the last 5-10 years. Originally devised by mathmaticians and neuroscientists to illustrate the fundamental principles of how brains might work they lost favor in the second half of the 20th century only to surge in popularity in the 20-teens as software engineers used them to resolve mathmatically intractable problems. 
 
 Nowadays, audio recognition (e.g.: google translate), handwriting recognition (e.g.:banks to process cheques, post offices to recognize addresses) and segmentation (e.g.: classify pictures of dogs or cats) are all implications of neural network in the real life.
 
@@ -49,7 +49,7 @@ The application of neural networks to learning problems has been ongoing for 20 
 
 ##  Related Readings
 
-Nielsen, M. (2015). Neural Networks & Deep Learning. Determination Press:San Francisco, CA  
+[Nielsen, M. (2015). Neural Networks & Deep Learning. Determination Press:San Francisco, CA]
   [Chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html)  
   [Charpter 2](http://neuralnetworksanddeeplearning.com/chap2.html)  
 
